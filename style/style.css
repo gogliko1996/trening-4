@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+main {
+    padding: 20px;
+}
+div li.hide {
+    display: none;
+
+}
+#scrol {
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    position: fixed;
+}
+#scrol i:hover {
+    text-shadow: 5px 5px 10px black;
+}
